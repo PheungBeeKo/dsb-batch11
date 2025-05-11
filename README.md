@@ -13,4 +13,4 @@ My data science and analytics projects
 reach out to me at benchalak.k@gmail.com
 
 ## Image
-![Deadpool].(https://media.uiargonaut.com/wp-content/uploads/2016/05/rawrfeb3.jpg)
+![Deadpool](https://media.uiargonaut.com/wp-content/uploads/2016/05/rawrfeb3.jpg)
